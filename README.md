@@ -25,7 +25,7 @@ Interested in contributing? See [CONTRIBUTING.md](CONTRIBUTING.md). :heart:
 
 ### :snowflake: Mission
 
-Our mission is to create the leading 3D globe and map for static and time-dynamic content, with the best possible performance, precision, visual quality, platform support, community, and ease of use.
+Our mission is to create the leading 5D/4D/3D globe and map for static and time-dynamic content, with the best possible performance, precision, visual quality, platform support, community, and ease of use.
 
 ### :green_book: License
 
