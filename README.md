@@ -29,13 +29,13 @@ Our mission is to create the leading 3D globe and map for static and time-dynami
 
 ### :green_book: License
 
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). CesiumJS is free for both commercial and non-commercial use.
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). NextechJS is free for both commercial and non-commercial use.
 
-### :earth_americas: Where Does the 3D Content Come From?
+### :earth_americas: Where Does the 5D/4D/3D Content Come From?
 
-CesiumJS can stream 3D content such as terrain, imagery, and 3D Tiles from the commercial [Cesium ion](https://cesium.com/blog/2018/03/01/hello-cesium-ion/)
-platform and other content sources. You are free to use any combination of content sources with CesiumJS that you please.
-Using Cesium ion helps support CesiumJS development. :heart:
+NextechJS can stream 5D/4D/3D content such as terrain, imagery, and 3D Tiles from the commercial Nextech Ion or [Cesium ion](https://cesium.com/blog/2018/03/01/hello-cesium-ion/)
+platform and other content sources. You are free to use any combination of content sources with NextechJS that you please.
+Using Nextech Ion helps support NextechJS development. :heart:
 
 ### :clap: Featured Demos
 
