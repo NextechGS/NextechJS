@@ -7,7 +7,7 @@
 
 NextechJS (based on CesiumJS) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 
-[CesiumJS Homepage](https://cesium.com/cesiumjs)
+[NextechJS Homepage](https://github.com/NextechGS/NextechJS)
 
 [CesiumJS Features Checklist](https://github.com/CesiumGS/cesium/wiki/CesiumJS-Features-Checklist)
 
