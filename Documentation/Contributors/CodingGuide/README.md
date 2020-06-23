@@ -611,7 +611,7 @@ p.w = 4.0; // Adds the w property to p, slows down property access since the obj
 
 ```javascript
 var p = new Cartesian3(1.0, 2.0, 3.0);
-p.x = "Cesium"; // Changes x to a string, slows down property access
+p.x = "NextechJS"; // Changes x to a string, slows down property access
 ```
 
 - In a constructor function, consider properties as write once; do not write to them or read them multiple times. Create a local variable if they need to be ready. For example:
