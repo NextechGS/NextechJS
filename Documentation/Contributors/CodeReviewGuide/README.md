@@ -62,7 +62,7 @@ Sometimes it is useful to clean up the pull request. Here are some scenarios and
 The tips below will use the following keywords:
 
 - **origin** will refer to the user fork, ie. `git@github.com/username/nextechjs.git`.
-- **upstream** will refer to the CesiumGS repo, ie. `git@github.com/NextechGS/nextechjs.git`.
+- **upstream** will refer to the NextechGS repo, ie. `git@github.com/NextechGS/nextechjs.git`.
 - **mybranch** will refer to your local branch name.
 - **target** will refer to the target branch the PR is to be merged into (and also the source for `mybranch`).
 
