@@ -1,10 +1,10 @@
-All code in CesiumJS is publicly peer reviewed. We review code to share knowledge, foster shared ownership, and improve code quality and consistency.
+All code in NextechJS is publicly peer reviewed. We review code to share knowledge, foster shared ownership, and improve code quality and consistency.
 
 This guide describes best practices for code reviewers.
 
 - [General](#general)
 - [Reviewing](#reviewing)
-- [Changes to the Public CesiumJS API](#changes-to-the-public-cesium-api)
+- [Changes to the Public NextechJS API](#changes-to-the-public-nextechjs-api)
 - [Testing](#testing)
 - [Merging](#merging)
 - [Useful Git Commit Management](#useful-git-commit-management)
@@ -31,9 +31,9 @@ This guide describes best practices for code reviewers.
 - Bring others into the conversation sparingly. If someone has expertise with a particular language feature or problem domain under review, invite them to comment with an `@mention`.
 - If an experienced contributor makes a occasional whitespace or trivial mistake, just fix it to save on noise and speedup the review.
 
-## Changes to the Public CesiumJS API
+## Changes to the Public NextechJS API
 
-- If new identifiers were added to the public CesiumJS API:
+- If new identifiers were added to the public NextechJS API:
   - Verify there is new reference doc. See the [Documentation Guide](../CodingGuide/README.md).
   - Verify that [CHANGES.md](../../../CHANGES.md) was updated.
   - Does the change warrant a new Sandcastle example?
@@ -49,7 +49,7 @@ This guide describes best practices for code reviewers.
 ## Merging
 
 - When a reviewer hits merge, the ideal is that they have enough knowledge of the new code that they could support it in the future. In practice, this isn't always realistic but we strive for it.
-- CesiumJS uses Travis CI for continuous integration. Travis automatically builds CesiumJS, runs ESLint, and generates the documentation for each branch pushed to GitHub. Before merging a pull request, verify that all Travis checks pass, indicated by the green check-mark and green "Merge pull request" button:
+- NextechJS uses Travis CI for continuous integration. Travis automatically builds NextechJS, runs ESLint, and generates the documentation for each branch pushed to GitHub. Before merging a pull request, verify that all Travis checks pass, indicated by the green check-mark and green "Merge pull request" button:
 
 ![Travis CI checks](Travis.jpg)
 
@@ -61,8 +61,8 @@ This guide describes best practices for code reviewers.
 Sometimes it is useful to clean up the pull request. Here are some scenarios and how to tackle them.
 The tips below will use the following keywords:
 
-- **origin** will refer to the user fork, ie. `git@github.com/username/cesium.git`.
-- **upstream** will refer to the CesiumGS repo, ie. `git@github.com/CesiumGS/cesium.git`.
+- **origin** will refer to the user fork, ie. `git@github.com/username/nextechjs.git`.
+- **upstream** will refer to the CesiumGS repo, ie. `git@github.com/NextechGS/nextechjs.git`.
 - **mybranch** will refer to your local branch name.
 - **target** will refer to the target branch the PR is to be merged into (and also the source for `mybranch`).
 
