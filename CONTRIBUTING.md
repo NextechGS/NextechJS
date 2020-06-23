@@ -87,4 +87,4 @@ Our code is our lifeblood so maintaining NextechJS's high code quality is import
 
 ## Code of Conduct
 
-To ensure an inclusive community, contributors and users in the Nextech community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
+To ensure an inclusive community, contributors and users in the NextechGS community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
