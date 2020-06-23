@@ -8,7 +8,7 @@ To ensure an inclusive community, contributors and users in the Nextech communit
 
 # Submitting an Issue
 
-If you have a question, do not submit an issue; instead, search the Nextech or [Cesium community forum](https://community.cesium.com/). The forum is very active and there are years of informative archives, often with answers from the core Nextech or Cesium team. If you do not find an answer to your question, start a new thread and you'll likely get a quick response.
+If you have a question, do not submit an issue; instead, search the Nextech or [Cesium community forum](https://community.cesium.com/). The forum is very active and there are years of informative archives, often with answers from the core NextechJS or Cesium team. If you do not find an answer to your question, start a new thread and you'll likely get a quick response.
 
 If you think you've found a bug in NextechJS, first search the [issues](https://github.com/NextechGS/NextechJS/issues). If an issue already exists, please add a comment expressing your interest and any additional information. This helps us prioritize issues.
 
