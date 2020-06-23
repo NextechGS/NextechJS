@@ -432,7 +432,7 @@ var p = new Cartesian3(1.0, 2.0, 3.0);
 
 ### Default Parameter Values
 
-If a _sensible_ default exists for a function parameter or class property, don't require the user to provide it. Use Cesium's `defaultValue` to assign a default value. For example, `height` defaults to zero in `Cartesian3.fromRadians`:
+If a _sensible_ default exists for a function parameter or class property, don't require the user to provide it. Use NextechJS's `defaultValue` to assign a default value. For example, `height` defaults to zero in `Cartesian3.fromRadians`:
 
 ```javascript
 Cartesian3.fromRadians = function (longitude, latitude, height) {
