@@ -53,8 +53,12 @@ We love pull requests. We strive to promptly review them, provide feedback, and 
 
 Before we can review a pull request, we require a signed Contributor License Agreement. There is a CLA for:
 
-- [individuals](https://docs.google.com/forms/d/e/1FAIpQLScU-yvQdcdjCFHkNXwdNeEXx5Qhu45QXuWX_uF5qiLGFSEwlA/viewform) and
-- [corporations](https://docs.google.com/forms/d/e/1FAIpQLSeYEaWlBl1tQEiegfHMuqnH9VxyfgXGyIw13C2sN7Fj3J3GVA/viewform).
+* [individuals (pdf)](https://github.com/NextechGS/NextechJS/blob/master/Documentation/Contributors/CLAs/individual-contributor-license-agreement-v1.0.pdf) 
+- [individuals (form)](https://docs.google.com/forms/d/e/1FAIpQLScU-yvQdcdjCFHkNXwdNeEXx5Qhu45QXuWX_uF5qiLGFSEwlA/viewform) 
+
+and
+* [corporations (pdf)](https://github.com/NextechGS/NextechJS/blob/master/Documentation/Contributors/CLAs/corporate-contributor-license-agreement-v1.0.pdf).
+- [corporations (form)](https://docs.google.com/forms/d/e/1FAIpQLSeYEaWlBl1tQEiegfHMuqnH9VxyfgXGyIw13C2sN7Fj3J3GVA/viewform).
 
 This only needs to be completed once, and enables contributions to all of the projects under the [NextechGS](https://github.com/NextechGS) organization, including NextechJS. The CLA ensures you retain copyright to your contributions, and provides us the right to use, modify, and redistribute your contributions using the [Apache 2.0 License](LICENSE.md).
 
