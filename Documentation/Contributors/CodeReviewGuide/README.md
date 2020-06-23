@@ -43,7 +43,7 @@ This guide describes best practices for code reviewers.
 ## Testing
 
 - Don't just review the code; test it by running the unit tests and relevant Sandcastle examples. See the [Testing Guide](../TestingGuide/README.md).
-- For some changes, it is useful to profile CesiumJS or step through the code in the debugger.
+- For some changes, it is useful to profile NextechJS or step through the code in the debugger.
 - Read the new reference doc. Build the reference doc if the changes are significant.
 
 ## Merging
